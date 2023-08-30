@@ -2,9 +2,10 @@
 
 /**
  * binary_tree_insert_left - Insert node to the left of parent node
- * Description: Where parent is a pointer to the node to insert the left-child in
- * And value is the value to store in the new node
- * function must return a pointer to the created node, or NULL on failure or if parent is NULL
+ * Description: Where parent is a pointer to the node to insert the
+ * left-child in And value is the value to store in the new node
+ * function must return a pointer to the created node, or NULL on failure
+ * or if parent is NULL.
  * If parent already has a left-child, the new node must take its place,
  * and the old left-child must be set as the left-child of the new node.
  *
