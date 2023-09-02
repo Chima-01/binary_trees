@@ -3,7 +3,7 @@
 /**
  * binary_tree_balance -  This function that measures the balance factor of a
  * binary tree
- * tree: parent to measure
+ * @tree: parent to measure
  * Return: balance factor of tree
  */
 
